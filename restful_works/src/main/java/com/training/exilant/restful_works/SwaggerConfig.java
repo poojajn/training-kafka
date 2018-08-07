@@ -1,0 +1,29 @@
+package com.training.exilant.restful_works;
+
+import java.util.HashSet;
+import java.util.Set;
+import java.util.Arrays;
+import org.springframework.context.annotation.Bean;
+import org.springframework.context.annotation.Configuration;
+
+import springfox.documentation.service.ApiInfo;
+import springfox.documentation.spi.DocumentationType;
+import springfox.documentation.spring.web.plugins.Docket;
+import springfox.documentation.swagger2.annotations.EnableSwagger2;
+
+@Configuration
+@EnableSwagger2
+public class SwaggerConfig {
+	public static final ApiInfo APT_INFO=new ApiInfo("Training spring Boot","Testing Swagger2","1.0","Apache 2.0","Bangaluru","some licencing Info goes here",
+			"http:/springtraining.com/licence");
+	private static final Set<String> DEFAULT_PRODUCES_AND_CONSUME=new HashSet<String>(Arrays.asList("application/json","application/xml"));
+	@Bean
+	public Docket api() {
+	
+		return new Docket(DocumentationType.SWAGGER_2)
+				.apiInfo(APT_INFO)
+				.produces(DEFAULT_PRODUCES_AND_CONSUME)
+				.consumes(DEFAULT_PRODUCES_AND_CONSUME);
+	}
+
+}
