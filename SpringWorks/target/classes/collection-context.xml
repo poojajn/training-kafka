@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+	 
+	xmlns:context="http://www.springframework.org/schema/context"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans-3.0.xsd http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context-3.0.xsd">
+
+	  
+	   
+
+<context:annotation-config/>
+<context:component-scan base-package="com.traning.autowire"/>
+
+<bean id="questionBank" class="com.training.collection.QuestionBank">
+<property name="question" value="Inheritance is available in........"></property>
+<property name="options">
+<list>
+<value>JAVA</value>
+<value>C++</value>
+<value>SCALA</value>
+<value>ALL</value>
+</list>
+</property>
+
+</bean>
+<bean id="addressSet" class="com.training.collection.AddressSet">
+
+<property name="address">
+<set>
+<value>Bengalore,Mission road</value>
+<value>Bengalore,kalinga road</value>
+<value>Bengalore,Richmond road</value>
+<value>Bengalore, kormangala</value>
+</set>
+</property>
+
+</bean>
+<bean id="accountMap" class="com.training.collection.AccountMap">
+
+<property name="accountMap">
+<map>
+<entry key="Rama" value="4000"></entry>
+<entry key="Teja" value="6000"></entry>
+<entry key="Pooja" value="7000"></entry>
+<entry key="Kavitha" value="8000"></entry>
+</map>
+</property>
+</bean>
+
+<bean id="myCollection" class="com.training.collection.MyCollection" autowire="byName"/>
+
+</beans> 

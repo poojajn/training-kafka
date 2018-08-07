@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+	xmlns:context="http://www.springframework.org/schema/context"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans-3.0.xsd http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context-3.0.xsd">
+
+	  
+	   
+<bean class="com.training.bpp.EmployeeBeanProcessor"/>   	   
+     <bean class="org.springframework.beans.factory.config.PropertyPlaceholderConfigurer">
+     <property name="location">
+     <value>mobileDetails.properties</value>
+     </property>
+     
+     </bean> 
+<!-- by default when a bean is created it will be singleton -->
+
+<context:annotation-config/>
+<context:component-scan base-package="com.traning.autowire"/>
+<!-- <bean id="camera" class="com.training.autowire.Camera" >
+<property name="type" value="${mobile.camType} "></property>
+</bean>
+<bean id="screen" class="com.training.autowire.Screen" >
+
+<property name="glsType" value="${mobile.glsType}" ></property>
+<property name="leg" value="${mobile.glsLen}" ></property>
+<property name="bre" value="${mobile.glsbre}" ></property>
+</bean>
+<bean id="speaker" class="com.training.autowire.Speaker" >
+
+<property name="type" value="${mobile.speakerType}" ></property>
+<property name="volume" value="${mobile.speakerVal}" ></property>
+</bean>  -->
+
+<bean id="camera" class="com.training.autowire.Camera" />
+<bean id="screen" class="com.training.autowire.Screen" />
+<bean id="speaker" class="com.training.autowire.Speaker" />
+<bean id="mobile" class="com.training.autowire.Mobile" autowire="byName">
+
+
+<property name="camera" ref="camera"></property>
+<property name="speaker" ref="speaker"></property>
+<property name="screen" ref="screen"></property>
+</bean>
+</beans>

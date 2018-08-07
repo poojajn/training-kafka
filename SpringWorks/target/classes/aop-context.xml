@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<beans xmlns="http://www.springframework.org/schema/beans"  
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  
+    xmlns:aop="http://www.springframework.org/schema/aop"   
+       xsi:schemaLocation="http://www.springframework.org/schema/beans   
+       http://www.springframework.org/schema/beans/spring-beans.xsd   
+       http://www.springframework.org/schema/aop   
+       http://www.springframework.org/schema/aop/spring-aop.xsd">  
+  
+	  
+	  
+
+<aop:aspectj-autoproxy />
+<!-- <bean class="com.training.aop.banking.LoggingAspect"></bean> -->
+<!-- <bean class="com.training.aop.banking.LoggingAspectAfter"></bean> -->
+<bean class="com.training.aop.model.LoggingAspectAround"></bean>
+<bean id="sbAccount" class="com.training.aop.model.SBAccount">
+<property name="acc" ref="account1"></property>
+</bean>
+<bean id="aaccount" class="com.training.aop.model.CAAccount">
+<property name="account" ref="account2"></property>
+</bean>
+<bean id="account1" class="com.training.aop.model.Account">
+<property name="accNo" value="101"></property>
+<property name="accName" value="Rama"></property>
+<property name="balance" value="10000"></property>
+</bean>
+<bean id="account2" class="com.training.aop.model.Account">
+<property name="accNo" value="102"></property>
+<property name="accName" value="Teja"></property>
+<property name="balance" value="20000"></property>
+</bean>
+<bean name="banking" class="com.training.aop.service.BankingService" autowire="byName"/>
+</beans>
