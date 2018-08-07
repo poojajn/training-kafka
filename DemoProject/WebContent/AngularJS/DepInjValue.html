@@ -1,0 +1,25 @@
+<! DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Event Registration</title>
+
+</head>
+<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.4/angular.min.js"></script>
+<body ng-app="sampleApp">
+
+<div ng-controller="AngularJSController">
+    <h3> Guru99 Global Event</h3>
+    {{ID}}
+</div>
+<script>
+
+    var sampleApp = angular.module('sampleApp',[]);
+    sampleApp.value("TutorialID", 5);
+    sampleApp.controller('AngularJSController', function($scope,TutorialID) {
+        $scope.ID =TutorialID;
+    });
+
+</script>
+</body>
+</html>

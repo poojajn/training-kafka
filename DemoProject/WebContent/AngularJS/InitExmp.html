@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta chrset="UTF 8">
+    <title>Event Registration</title>
+</head>
+<body>
+
+<script src="https://code.angularjs.org/1.6.9/angular-route.js"></script> 
+<script src="https://code.angularjs.org/1.6.9/angular.js"></script>
+<script src="https://code.angularjs.org/1.6.9/angular.min.js"></script>
+ <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script> 
+
+<h1> Guru99 Global Event</h1>
+
+<div ng-app="" ng-init="TutorialName='Angular JS';chapters=['Controllers','Models','Filters']"">
+
+    Tutorial Name : {{ TutorialName}}<br>
+    People : <input type="number" ng-model="quantity"><br>
+
+    Registration Price : <input type="number" ng-model="price">
+
+    Total : {{quantity * price}}
+    <br>
+     <ul>
+        <li ng-repeat="names in chapters">
+            {{names}}
+        </li>
+    </ul>
+
+</div>
+<div ng-app="">
+<button ng-click="count = count + 1" ng-init="count=0">
+    Increment
+</button>
+
+<div>The Current Count is {{count}}</div>
+</div>
+
+</body>
+</html>

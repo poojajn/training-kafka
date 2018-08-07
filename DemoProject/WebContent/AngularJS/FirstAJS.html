@@ -1,0 +1,31 @@
+
+<!DOCTYPE html>  
+<html lang="en">  
+<head>  
+    <meta chrset="UTF 8">
+    <title>First AngularJS</title>     
+</head>  
+<body>
+
+<script src="https://code.angularjs.org/1.6.9/angular.js"></script>
+<script> 
+	var app = angular.module('DemoApp',[]);
+	app.controller('DemoController', function($scope){
+
+	$scope.TopicNames =[
+		{name: "What controller do from Angular's perspective"},
+		{name: "Controller Methods"},
+		{name: "Building a basic controller"}];
+	//$scope.value=$scope.$eval('a+b');
+	});
+</script>
+
+<div ng-app="DemoApp" ng-controller="DemoController" ng-init="a=1;b=2">
+<h2>Angular Js Topics List</h2>
+<ul><li ng-repeat="tpNames in TopicNames">
+{{tpNames.name}}</li></ul>
+<p>{{a+b}}</p>
+</div>
+
+</body>  
+</html>

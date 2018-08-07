@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+ <script src="/DemoProject/WebContent/JS/DemoController.js"></script>
+</head>
+<body  ng-app = "sampleApp" >
+<div ng-controller="DemoController">
+    Addition :{{c}}
+    </div>
+    <script>
+    var sampleApp=angular.module('sampleApp',[]);
+    sampleApp.controller('DemoController',function($scope) {
+                                        $scope.a=1;
+                                        $scope.b=2;
+                                        $scope.c=$scope.b + $scope.a;
+                                });
+    </script>
+    
+</body>
+</html>

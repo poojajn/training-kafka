@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta chrset="UTF 8">
+    <title>Event Registration</title>
+</head>
+<body>
+
+<script src="https://code.angularjs.org/1.6.9/angular-route.js"></script>
+<script src="https://code.angularjs.org/1.6.9/angular.min.js"></script>
+<script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+
+    <h1> Guru99 Global Event</h1>
+<div ng-app="DemoApp" ng-controller="DemoController">
+    Tutorial Name : <input type="text" ng-model="tutorialName"><br>
+    <br>
+    This tutorial is {{tutorialName | uppercase}}<br>
+    {{tutorialID|number:2}}<br>
+    {{tutorialID|number:3}}<br>
+    {{tutorialID|number:1}}<br>
+    {{tutorialID|currency}}<br>
+    {{tutorialID|number:1|currency}}<br>
+    {{tutorialID|number:2|currency}}<br>
+    {{tutorialID|number:3|currency}}<br>
+    {{tutorialID|currency|number:2}}<br>
+    This tutorial is {{tutorial|json}}
+</div>
+<script type="text/javascript">
+    var app = angular.module('DemoApp',[]);
+    app.controller('DemoController',function($scope){
+
+      // $scope.tutorialName ="angular JS";
+       // $scope.tutorialID =3.565656;
+        $scope.tutorial ={TutorialID:12,tutorialName:"Angular"};
+    });
+</script>
+
+</body>
+</html>

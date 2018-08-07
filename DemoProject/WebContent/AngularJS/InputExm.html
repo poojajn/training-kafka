@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta chrset="UTF 8">
+	<title>Event Registration</title>
+	<link rel="stylesheet" href="css/bootstrap.css"/>
+	<script src="https://code.angularjs.org/1.6.9/angular.js"></script>
+</head>
+<body >
+<h1> Guru99 Global Event</h1>
+
+<div ng-app="DemoApp" ng-controller="DemoCtrl">
+	<form>
+		&nbsp;&nbsp;&nbsp;Topic Description:<br> <br>
+		&nbsp;&nbsp;&nbsp;
+        
+		Name : <input type="text" ng-model="pname"><br>
+		&nbsp;&nbsp;&nbsp;
+		Topic : <br>&nbsp;&nbsp;&nbsp;
+		<input type="checkbox" ng-model="Topic.Controller">Controller<br>&nbsp;&nbsp;&nbsp;
+		<input type="checkbox" ng-model="Topic.Models">Models
+			
+			
+			
+			<br>
+		<br>
+		<br>
+		<p>Hello <span ng-bind="pname"></span>!</p>
+		<ul><li ng-repeat="topic in STopics">u selected Topic {{topic.select}}</li></ul>				
+	</form>
+	
+	</div>
+   
+<script>
+	var app = angular.module('DemoApp',[]);
+	app.controller('DemoCtrl', function($scope){
+		$scope.pname="Rama";
+        
+		
+		if(Topic.Controller==true){
+			$scope.STopics=[{select:"Controller"}];
+		}else if(Topic.Controller==true&&Topic.Models==true){
+			$scope.STopics=[{select:"Controller"},{select:"Models"}];
+		}else 
+			$scope.STopics=[{select:"Models"}];
+
+	
+	});
+</script>
+
+</body>
+</html>

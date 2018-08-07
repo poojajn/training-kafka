@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.4/angular.min.js"></script>
+<script src="https://code.angularjs.org/1.6.9/angular-route.js"></script>
+
+<script src="https://code.angularjs.org/1.6.9/angular.js"></script>
+<body>
+<h3> Guru99 Global Event</h3>
+
+<div ng-app = "mainApp" ng-controller = "DemoController">
+<p>Result: {{result}}</p>
+</div>
+<script>
+var mainApp=angular.module('mainApp',[]);
+  mainApp.service('AdditionService',function(){
+	  this.ADDITION=function(a,b){
+		  return a+b;
+	  }
+  });
+  mainApp.controller('DemoController',function($scope,AdditionService)){
+	  $scope.result=AdditionService.ADDITION(6,8);
+  });
+
+
+
+</script>
+
+</body>
+</html>
