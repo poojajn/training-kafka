@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="http://marketplace.eclipse.org/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:og="http://ogp.me/ns#" xmlns:article="http://ogp.me/ns/article#" xmlns:book="http://ogp.me/ns/book#" xmlns:profile="http://ogp.me/ns/profile#" xmlns:video="http://ogp.me/ns/video#" xmlns:product="http://ogp.me/ns/product#" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Eclipse Plugins, Bundles and Products - Eclipse Marketplace</title>
+    <link>http://marketplace.eclipse.org/</link>
+    <description></description>
+    <language>en</language>
+     <atom:link href="http://marketplace.eclipse.org/rss.xml" rel="self" type="application/rss+xml" />
+      <item>
+    <title>Google Cloud Tools for Eclipse</title>
+    <link>http://marketplace.eclipse.org/content/google-cloud-tools-eclipse</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/GCP-Logo.png&quot; width=&quot;91&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Sat, 2018-07-14 15:16&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22Google%20LLC%22&quot;&gt;Google LLC&lt;/a&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Thu, 2017-03-02 15:40&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/eharold/listings&quot; title=&quot;Elliotte Rusty Harold&quot;&gt;Elliotte Rusty Harold&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Cloud Tools for Eclipse is a Google-sponsored open source plugin that supports the Google Cloud Platform. Cloud Tools for Eclipse enables you to create, import, edit, build, run, debug, and deploy Java servlet applications for the App Engine standard and flexible environments without leaving Eclipse. Cloud Tools for Eclipse also enables you to manage cloud client libraries and create and run Google Cloud Dataflow pipelines.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://cloud.google.com/eclipse/docs/release-notes&quot; rel=&quot;nofollow&quot;&gt;Release Notes&lt;/a&gt; | &lt;a href=&quot;https://cloud.google.com/eclipse/docs/&quot; rel=&quot;nofollow&quot;&gt;Documentation&lt;/a&gt; | &lt;a href=&quot;https://github.com/GoogleCloudPlatform/google-cloud-eclipse&quot; rel=&quot;nofollow&quot;&gt;Github&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Thu, 02 Mar 2017 20:40:51 +0000</pubDate>
+ <dc:creator>eharold</dc:creator>
+ <guid isPermaLink="false">3321165 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/google-cloud-tools-eclipse#comments</comments>
+  </item>
+  <item>
+    <title>Cupid</title>
+    <link>http://marketplace.eclipse.org/content/cupid</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/logo_cupid.png&quot; width=&quot;110&quot; height=&quot;50&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Fri, 2018-07-13 17:25&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22NOAA%20Environmental%20Software%20Infrastructure%20and%20Interoperability%22&quot;&gt;NOAA Environmental Software Infrastructure and Interoperability&lt;/a&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Wed, 2015-11-11 22:56&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/rdunlapmqd/listings&quot; title=&quot;Rocky Dunlap&quot;&gt;Rocky Dunlap&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Cupid is a development and training environment for models that use the &lt;a href=&quot;https://www.earthsystemcog.org/projects/esmf/&quot; rel=&quot;nofollow&quot;&gt;Earth System Modeling Framework (ESMF)&lt;/a&gt; and &lt;a href=&quot;https://www.earthsystemcog.org/projects/nuopc/&quot; rel=&quot;nofollow&quot;&gt;National Unified Operational Capability (NUOPC) Layer&lt;/a&gt; infrastructure. Cupid&#039;s trace analysis and code generation tools make it easier to code, profile, and debug coupled models based on NUOPC.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Thu, 12 Nov 2015 03:56:16 +0000</pubDate>
+ <dc:creator>rdunlapmqd</dc:creator>
+ <guid isPermaLink="false">2604393 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/cupid#comments</comments>
+  </item>
+  <item>
+    <title>CodeMR Software Quality Tool</title>
+    <link>http://marketplace.eclipse.org/content/codemr-software-quality-tool</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/codemr-icon-black-1.png&quot; width=&quot;80&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Fri, 2018-07-13 11:17&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22CodeMR%20Software%20Solution%22&quot;&gt;CodeMR Software Solution&lt;/a&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Thu, 2018-06-14 20:53&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/cteamqoj/listings&quot; title=&quot;CodeMR Team&quot;&gt;CodeMR Team&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;h3&gt;&lt;strong&gt;CodeMR Summary&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;CodeMR&lt;/strong&gt; is a&lt;strong&gt; multi language (Java and C++) &lt;/strong&gt;software quality and static code analysis tool that helps software companies developing better code, better quality products. &lt;br /&gt;
+CodeMR visualizes code metrics and high level quality attributes (Coupling, Complexity, Size) for &lt;strong&gt;Java&lt;/strong&gt; and &lt;strong&gt;C++&lt;/strong&gt; projects in different views, such as Package Structure, TreeMap, Sunburst, Dependency and Graph Views. &lt;br /&gt;
+The graph visualization technique applied in CodeMR is simple yet intuitive. CodeMR has different filtering options and supports custom queries. It visualizes high-level Object Oriented quality attributes and low level metrics. Quality attributes are derived from the combinations of several metrics. You can also create different HTML reports for the project. &lt;br /&gt;
+With Community Edition you can extract up to 50 source files and 60 classes. For analyzing more files, you can download a trial license or buy a license from CodeMR website. &lt;/p&gt;
+&lt;p&gt;
+For more information, please visit &lt;strong&gt;&lt;a href=&quot;https://www.codemr.co.uk&quot; rel=&quot;nofollow&quot;&gt;https://www.codemr.co.uk&lt;/a&gt;&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Better Code, Better Quality...&lt;/strong&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;strong&gt;Requirements:&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;&lt;li&gt;
+&lt;p&gt;Eclipse Luna or an upper version&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Eclipse Java&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Optional Eclipse CDT C/C++ Development Tooling to use C++ analyzer&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;&lt;h3&gt;&lt;strong&gt;Software metrics and statistics which are supported by CodeMR&lt;/strong&gt;&lt;/h3&gt;
+&lt;h4&gt;&lt;strong&gt;Project Metrics:&lt;/strong&gt;&lt;/h4&gt;
+&lt;ul&gt;&lt;li&gt;
+&lt;p&gt;Project Total Lines of Code&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Number of Packages&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Number of External Packages&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Number of External Entities&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Number of Problematic Classes&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Number of Highly Problematic Classes&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;&lt;h4&gt;&lt;strong&gt;Package Metrics:&lt;/strong&gt;&lt;/h4&gt;
+&lt;ul&gt;&lt;li&gt;
+&lt;p&gt;Package Total Lines of Code&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Efferent Coupling&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Afferent Coupling&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Number of Interfaces&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Number of Classes&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Number of Entities&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Abstractness&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Instability&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Normalized Distance&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;&lt;h4&gt;&lt;strong&gt;Class Metrics:&lt;/strong&gt;&lt;/h4&gt;
+&lt;ul&gt;&lt;li&gt;
+&lt;p&gt;Lines of Code&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Weighted Method Count&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Depth of Inheritance Tree&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Number of Children&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Coupling Between Object Classes (CBO)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Response For a Class (RFC)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Lack of Cohesion of Methods (LCOM)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Cohesion Among Methods(CAM)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Number of Fields&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Number of Methods&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Number of Static Fields&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Number of Static Methods&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Number of Overridden Methods&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Specialization Index&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Access to Foreign Data&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Lack of Tight Class Cohesion&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;&lt;h4&gt;&lt;strong&gt;Method Metrics:&lt;/strong&gt;&lt;/h4&gt;
+&lt;ul&gt;&lt;li&gt;
+&lt;p&gt;McCabe Cyclomatic Complexity&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Nested Block Depth&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Method Lines of Code&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Number of Parameters&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Number of Methods Called&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Number of Accessed Fields&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt; &lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Fri, 15 Jun 2018 00:53:03 +0000</pubDate>
+ <dc:creator>cteamqoj</dc:creator>
+ <guid isPermaLink="false">4135631 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/codemr-software-quality-tool#comments</comments>
+  </item>
+  <item>
+    <title>Actifsource - Model-Driven Code Generator</title>
+    <link>http://marketplace.eclipse.org/content/actifsource-model-driven-code-generator</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/a_eclipse_marktplace.png&quot; width=&quot;110&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Fri, 2018-07-13 09:40&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22actifsource%20GmbH%22&quot;&gt;actifsource GmbH&lt;/a&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Thu, 2010-04-15 11:35&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/mriser6li/listings&quot; title=&quot;Micha Riser&quot;&gt;Micha Riser&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Actifsource is a code generator plug-in for the Eclipse IDE. Code generation is driven by models which are created according to user-defined meta-models. UML-like graphic editor assists modeling. Generic code templates which directly connect to the user&#039;s meta-model enable code generation. Among the supported all textual programminig languages (i.e. C/C++, Scala, Groovy, Java, Cobol, IEC 61131, ...). Regeneration of code happens in realtime whenever model, meta-model or code templates change. The user is guided by content-assist in every situation. Interoperability with other UML and modeling tools is provided by importing and exporting from/to ecore.&lt;/p&gt;
+&lt;p align=&quot;center&quot;&gt;Free Community Version available!&lt;/p&gt;
+&lt;p align=&quot;center&quot;&gt; &lt;/p&gt;
+&lt;p align=&quot;center&quot;&gt; &lt;/p&gt;
+&lt;h2&gt;Feature List&lt;/h2&gt;
+&lt;ul&gt;&lt;li&gt;Lightweight&lt;/li&gt;
+&lt;li&gt;Manage models and meta-models in a single workspace&lt;/li&gt;
+&lt;li&gt;Realtime validation&lt;/li&gt;
+&lt;li&gt;Type-safe code templates&lt;/li&gt;
+&lt;li&gt;Groundbreaking template editor concept&lt;/li&gt;
+&lt;li&gt;Strong typing and content assist&lt;/li&gt;
+&lt;li&gt;VCS integration&lt;/li&gt;
+&lt;li&gt;File-based (no database)&lt;/li&gt;
+&lt;li&gt;Graphical UML-like editor for meta-models&lt;/li&gt;
+&lt;li&gt;Generate code for any programming language&lt;/li&gt;
+&lt;li&gt;All references linkable&lt;/li&gt;
+&lt;li&gt;Parallel build with outstanding performance&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt; &lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Thu, 15 Apr 2010 15:35:03 +0000</pubDate>
+ <dc:creator>mriser6li</dc:creator>
+ <guid isPermaLink="false">1177 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/actifsource-model-driven-code-generator#comments</comments>
+  </item>
+  <item>
+    <title>Groovy Development Tools</title>
+    <link>http://marketplace.eclipse.org/content/groovy-development-tools</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/groovy-logo-medium.png&quot; width=&quot;110&quot; height=&quot;55&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Fri, 2018-07-13 09:33&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22Pivotal%22&quot;&gt;Pivotal&lt;/a&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Wed, 2012-07-04 13:05&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/aclement/listings&quot; title=&quot;Andrew Clement&quot;&gt;Andrew Clement&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;The Groovy Development Tools (GDT) provides Eclipse and Maven support for the &lt;a href=&quot;http://groovy-lang.org/&quot; rel=&quot;nofollow&quot;&gt;Apache Groovy&lt;/a&gt; programming language. GDT adds full-featured IDE support for Groovy including editors, wizards, content assist, debugging, refactoring and searching.&lt;/p&gt;
+&lt;p&gt;The GDT requires the &lt;a href=&quot;https://marketplace.eclipse.org/content/eclipse-java-development-tools-0&quot; rel=&quot;nofollow&quot;&gt;Eclipse Java Development Tools&lt;/a&gt; (JDT) as it builds upon Java/JVM support, including Java interoperability. If your Eclipse flavor does not include JDT, you must install it first.&lt;/p&gt;
+&lt;p&gt;GDT does not provide any direct support for &lt;a href=&quot;http://grails.org&quot; rel=&quot;nofollow&quot;&gt;Grails&lt;/a&gt;. If you want Grails tooling, then please consider &lt;a href=&quot;https://marketplace.eclipse.org/content/groovygrails-tool-suite-ggts-eclipse&quot; rel=&quot;nofollow&quot;&gt;Groovy-Grails Tools Suite&lt;/a&gt; or &lt;a href=&quot;https://marketplace.eclipse.org/content/spring-tools-aka-spring-ide-and-spring-tool-suite&quot; rel=&quot;nofollow&quot;&gt;Spring Tool Suite&lt;/a&gt; for your Grails projects.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Wed, 04 Jul 2012 17:05:41 +0000</pubDate>
+ <dc:creator>aclement</dc:creator>
+ <guid isPermaLink="false">321859 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/groovy-development-tools#comments</comments>
+  </item>
+  <item>
+    <title>VIATRA</title>
+    <link>http://marketplace.eclipse.org/content/viatra</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/viatra_logo_0.png&quot; width=&quot;80&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Fri, 2018-07-13 09:23&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22eclipse.org%22&quot;&gt;eclipse.org&lt;/a&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Wed, 2015-04-15 11:13&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/zujhelyi/listings&quot; title=&quot;Zoltan Ujhelyi&quot;&gt;Zoltan Ujhelyi&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;The VIATRA framework supports the development of model transformations with specific focus on event-driven, reactive transformations. Building upon the incremental query support of the EMF-IncQuery project, VIATRA offers a language to define transformations and a reactive transformation engine to execute certain transformations upon changes in the underlying model. The VIATRA project provides:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;An internal DSL over the Xtend language to specify both batch and event-driven, reactive transformations.&lt;/li&gt;
+&lt;li&gt;A complex event-processing engine over EMF models to specify reactions upon detecting complex sequences of events.&lt;/li&gt;
+&lt;li&gt;A rule-based design space exploration framework to explore design candidates as models satisfying multiple criteria.&lt;/li&gt;
+&lt;li&gt;A model obfuscator to remove sensitive information from a confidential model (e.g. to create bug reports).&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Wed, 15 Apr 2015 15:13:21 +0000</pubDate>
+ <dc:creator>zujhelyi</dc:creator>
+ <guid isPermaLink="false">2292729 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/viatra#comments</comments>
+  </item>
+  <item>
+    <title>TestDoxon</title>
+    <link>http://marketplace.eclipse.org/content/testdoxon</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/testDox110x80px.png&quot; width=&quot;110&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Fri, 2018-07-13 09:18&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22Delicate%20Sound%20Of%20Software%20AB%22&quot;&gt;Delicate Sound Of Software AB&lt;/a&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Wed, 2018-06-20 03:44&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/tdoxon/listings&quot; title=&quot;Test Doxon&quot;&gt;Test Doxon&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;A plug-in for Eclipse IDE based on TestDox. TestDoxon assists the user by showing test method names according to this standard.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Wed, 20 Jun 2018 07:44:24 +0000</pubDate>
+ <dc:creator>tdoxon</dc:creator>
+ <guid isPermaLink="false">4142493 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/testdoxon#comments</comments>
+  </item>
+  <item>
+    <title>Software.com</title>
+    <link>http://marketplace.eclipse.org/content/softwarecom</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/cody-thumbs-up-blue.png&quot; width=&quot;70&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Thu, 2018-07-12 19:56&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22Software.com%22&quot;&gt;Software.com&lt;/a&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Fri, 2018-03-30 10:33&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/xluiz/listings&quot; title=&quot;Xavier Luiz&quot;&gt;Xavier Luiz&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Insights into how you code.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Fri, 30 Mar 2018 14:33:48 +0000</pubDate>
+ <dc:creator>xluiz</dc:creator>
+ <guid isPermaLink="false">4004168 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/softwarecom#comments</comments>
+  </item>
+  <item>
+    <title>ABAP Continuous Integration</title>
+    <link>http://marketplace.eclipse.org/content/abap-continuous-integration</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/abapCI_logo.jpg&quot; width=&quot;110&quot; height=&quot;77&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Thu, 2018-07-12 15:58&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22Andreas%20Gautsch%22&quot;&gt;Andreas Gautsch&lt;/a&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Thu, 2017-08-31 17:35&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/agautsch/listings&quot; title=&quot;Andreas Gautsch&quot;&gt;Andreas Gautsch&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;abapCI is an additional free plugin for ABAP in Eclipse which supports you with Continuous Integration features.&lt;/p&gt;
+&lt;p&gt;Some of the features are:&lt;/p&gt;
+&lt;p&gt;- Automatic unit test execution after each development object change&lt;br /&gt;
+- Visualization of the current status in a separate view which can be placed somewhere on the user interface&lt;br /&gt;
+- Cyclic runs of unit tests for more packages&lt;br /&gt;
+- Coloring of different systems (in particular different coloring for DEV, QAS, PRD)&lt;br /&gt;
+- Automatic source code formatting&lt;br /&gt;
+- draft for abapGit integration &lt;br /&gt;
+ &lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Thu, 31 Aug 2017 21:35:06 +0000</pubDate>
+ <dc:creator>agautsch</dc:creator>
+ <guid isPermaLink="false">3629791 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/abap-continuous-integration#comments</comments>
+  </item>
+  <item>
+    <title>JBoss Tools</title>
+    <link>http://marketplace.eclipse.org/content/jboss-tools</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/jbosstools_icon64_1_1.png&quot; width=&quot;64&quot; height=&quot;64&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Thu, 2018-07-12 12:40&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22Red%20Hat%2C%20Inc.%22&quot;&gt;Red Hat, Inc.&lt;/a&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Fri, 2014-04-11 18:37&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/jtools/listings&quot; title=&quot;JBoss Tools&quot;&gt;JBoss Tools&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;JBoss Tools is an umbrella project for a set of Eclipse plugins that includes support for JBoss and related technologies, such as Hibernate, JBoss AS / WildFly, CDI, OpenShift, Apache Camel, Red Hat JBoss Fuse, Docker, JSF, (X)HTML, Maven, and more. This entry has the majority of JBoss Tools but does not include features that requires dependencies outside of what is common from Eclipse JEE and m2eclipse.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Fri, 11 Apr 2014 22:37:55 +0000</pubDate>
+ <dc:creator>jtools</dc:creator>
+ <guid isPermaLink="false">1617241 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/jboss-tools#comments</comments>
+  </item>
+  </channel>
+</rss>

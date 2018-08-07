@@ -1,0 +1,10 @@
+/**
+ * 
+ */
+/**
+ * @author ramana.k
+ *
+ */
+module com {
+	requires java.base;
+}
