@@ -1,0 +1,32 @@
+</head>
+<body ng-app="app">
+
+<script src="https://code.angularjs.org/1.6.9/angular.js"></script>
+<!-- <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script> -->
+
+ <h1 ng-controller="HelloWorldController"> {{message}}</h1> 
+<div  ng-init="person={firstname:'Rama',lastname:'Kamadi'}">
+Hello  {{person.firstname}} {{person.lastname}}
+</div>
+<div ng-app="" ng-init="points=[1,15,19,2,40]">  
+<p ng-repeat="value in points">The third result is {{value}}</p>  
+</div>
+<div ng-app = "" ng-init = "countries = [{locale:'en-IND',name:'India'}, {locale:'en-PAK',name:'Pakistan'}, {locale:'en-AUS',name:'Australia'}]">  
+   <p ng-repeat="value in countries">The list of counties::::: {{value.locale}}  {{value.name}}  </p> 
+</div>  
+<div ng-app = "">  
+  
+   <p>Enter your Name: <input type = "text" ng-model = "name"></p>  
+</div>  
+<script>
+
+
+angular.module("app",[]).controller("HelloWorldController",function($scope){
+	$scope.message="hello world.....";});
+
+</script>
+
+
+
+</body>
+</html>
