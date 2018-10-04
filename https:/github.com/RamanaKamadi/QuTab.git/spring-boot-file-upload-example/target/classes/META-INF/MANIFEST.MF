@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Built-By: ramana.k
+Build-Jdk: 10.0.1
+Implementation-Title: spring-boot-file-upload
+Implementation-Version: 1.0
+Implementation-Vendor-Id: com.mkyong
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: http://projects.spring.io/spring-boot/spring-boot-
+ file-upload/
+Created-By: Maven Integration for Eclipse
+
